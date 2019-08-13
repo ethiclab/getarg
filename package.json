@@ -1,0 +1,25 @@
+{
+  "name": "@ethiclab/getarg",
+  "private": "false",
+  "version": "1.0.0",
+  "description": "reads <arg-value> from a formatted string like --arg-name <arg-value>",
+  "main": "src/getarg.js",
+  "scripts": {
+    "test": "node test/getarg.spec.js",
+    "cover": "nyc npm test"
+  },
+  "keywords": [
+    "args",
+    "getarg"
+  ],
+  "author": {
+    "name": "Eduardo Montoya",
+    "email": "tech@ethiclab.it",
+    "url": "https://ethiclab.it"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethiclab/getarg.git"
+  }
+}
