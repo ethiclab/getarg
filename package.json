@@ -1,6 +1,5 @@
 {
   "name": "@ethiclab/getarg",
-  "private": "false",
   "version": "1.0.0",
   "description": "reads <arg-value> from a formatted string like --arg-name <arg-value>",
   "main": "src/getarg.js",
